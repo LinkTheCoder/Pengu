@@ -1,0 +1,85 @@
+{
+    "quizzes": [
+      {
+        "question": "How tall can the King Penguin grow?",
+        "options": [
+          {"option": "1 meter", "isCorrect": true},
+          {"option": "2 meters", "isCorrect": false},
+          {"option": "0.5 meters", "isCorrect": false}
+        ]
+      },
+      {
+        "question": "What is the distinctive feature of the Chinstrap Penguin?",
+        "options": [
+          {"option": "Orange patches", "isCorrect": false},
+          {"option": "Black band under the chin", "isCorrect": true},
+          {"option": "Yellow crests", "isCorrect": false}
+        ]
+      },
+      {
+        "question": "Which penguin species is native to Macquarie Island?",
+        "options": [
+          {"option": "Royal Penguin", "isCorrect": true},
+          {"option": "Galápagos Penguin", "isCorrect": false},
+          {"option": "Humboldt Penguin", "isCorrect": false}
+        ]
+      },
+      {
+        "question": "What is the size of the Fiordland Penguin?",
+        "options": [
+          {"option": "About 45 centimeters", "isCorrect": false},
+          {"option": "About 60 centimeters", "isCorrect": true},
+          {"option": "About 75 centimeters", "isCorrect": false}
+        ]
+      },
+      {
+        "question": "Which penguin species is known for its donkey-like braying sound?",
+        "options": [
+          {"option": "Adélie Penguin", "isCorrect": false},
+          {"option": "African Penguin", "isCorrect": true},
+          {"option": "Gentoo Penguin", "isCorrect": false}
+        ]
+      },
+      {
+        "question": "What is the red list status of the Humboldt Penguin?",
+        "options": [
+          {"option": "Least Concern", "isCorrect": false},
+          {"option": "Vulnerable", "isCorrect": true},
+          {"option": "Endangered", "isCorrect": false}
+        ]
+      },
+      {
+        "question": "Where is the Yellow-eyed Penguin native to?",
+        "options": [
+          {"option": "Antarctica", "isCorrect": false},
+          {"option": "New Zealand", "isCorrect": true},
+          {"option": "Australia", "isCorrect": false}
+        ]
+      },
+      {
+        "question": "Which penguin species is the smallest?",
+        "options": [
+          {"option": "Emperor Penguin", "isCorrect": false},
+          {"option": "Little Penguin", "isCorrect": true},
+          {"option": "King Penguin", "isCorrect": false}
+        ]
+      },
+      {
+        "question": "What is the average weight of the Galápagos Penguin?",
+        "options": [
+          {"option": "1.5 to 2.5 kilograms", "isCorrect": true},
+          {"option": "3 to 5 kilograms", "isCorrect": false},
+          {"option": "5 to 7 kilograms", "isCorrect": false}
+        ]
+      },
+      {
+        "question": "Which penguin species has a white eye stripe?",
+        "options": [
+          {"option": "Snares Penguin", "isCorrect": true},
+          {"option": "Macaroni Penguin", "isCorrect": false},
+          {"option": "Southern Rockhopper Penguin", "isCorrect": false}
+        ]
+      }
+    ]
+  }
+  
