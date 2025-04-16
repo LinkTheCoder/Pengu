@@ -1,6 +1,6 @@
 # Penguin Bot
 
-<img src="https://i.imgur.com/0X4KBgV.png" width="60%" />
+<img src="https://i.imgur.com/MyPEDm9.png" width="60%" />
 
 <br><br>
   
